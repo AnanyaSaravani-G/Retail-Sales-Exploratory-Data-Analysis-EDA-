@@ -11,7 +11,6 @@ CS667-RetailSales/
 │
 ├── Project1_EDA/
 │   ├── CS667_Project1_EDA.ipynb          # EDA notebook (8 sections)
-│   └── README_P1.md
 │
 ├── Project2_ML/
 │   ├── CS667_Project2_RetailSales.ipynb  # ML regression notebook (Colab ready)
@@ -43,7 +42,6 @@ This project performs a comprehensive Exploratory Data Analysis on a retail sale
 ```
 ├── CS667_Project1_EDA.ipynb          # Main Jupyter Notebook (8 sections)
 ├── retail_sales.xlsx                 # Source dataset
-└── README.md
 ```
 
 ## Notebook Sections
